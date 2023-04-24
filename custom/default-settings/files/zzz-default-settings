@@ -9,8 +9,8 @@ uci commit system
 
 uci set network.lan.ipaddr='192.168.10.253'
 uci set network.lan.proto='static'
-uci set network.lan.gateway='192.168.10.1'
-uci set network.lan.dns='192.168.10.1'
+uci set network.lan.gateway='192.168.1.110'
+uci set network.lan.dns='192.168.1.110'
 uci set network.lan.broadcast='192.168.10.255'
 uci set network.lan.ipv6=off
 uci delete network.lan.ip6assign

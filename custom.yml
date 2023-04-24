@@ -8,6 +8,10 @@ packages:
   - luci-app-ssr-plus
   - default-settings
   - dnsmasq-full
+  - luci-app-mwan3
+  - luci-app-wireguard
+  - wireguard
+  - wireguard-tools
 
 
 
